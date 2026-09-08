@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samiullah88/dsa-pattern/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/samiullah88/dsa-pattern/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/samiullah88/dsa-pattern/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samiullah88/dsa-pattern/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -36,6 +37,10 @@
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samiullah88/dsa-pattern/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/samiullah88/dsa-pattern/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->e Topics Start-->
 # LeetCode Topics
 ## Two Pointers
