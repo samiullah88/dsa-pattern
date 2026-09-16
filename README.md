@@ -11,6 +11,7 @@
 | [0125-valid-palindrome](https://github.com/samiullah88/dsa-pattern/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samiullah88/dsa-pattern/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samiullah88/dsa-pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/samiullah88/dsa-pattern/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/samiullah88/dsa-pattern/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/samiullah88/dsa-pattern/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/samiullah88/dsa-pattern/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samiullah88/dsa-pattern/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/samiullah88/dsa-pattern/tree/master/0202-happy-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -68,6 +70,14 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/samiullah88/dsa-pattern/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/samiullah88/dsa-pattern/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/samiullah88/dsa-pattern/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->e Topics Start-->
 # LeetCode Topics
 ## Two Pointers
